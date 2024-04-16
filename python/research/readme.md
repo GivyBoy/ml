@@ -2,7 +2,7 @@
 
 This folder will hold my personal research efforts that will allow me to better understand the structure and features of neural nets. I may ocasionally implement research papers if they align with my research goals
 
-Upcoming:
+Upcoming:<br>
     1. Knowledge Distillation in Neural Nets<br>
     2. Do Neural Nets learn better when pre-trained on random tasks vs random initilization?<br>
     3. Does adding unrelated data to the dataset help the model perform better? Does adding data that are closely related to the task help the model perform better?<br>
